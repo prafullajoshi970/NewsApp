@@ -1,0 +1,23 @@
+.Navmain{
+    display: flex;
+    font-size: x-large;
+    justify-content: space-around;
+    background-color: rgb(51, 51, 51);
+    color: white;
+    position:sticky
+
+}
+button{
+    color: aliceblue;
+    font-size: small;
+    margin-left:20%;
+}
+.main{
+    position: relative;
+}
+.center{
+    position:absolute;
+    left:40%;
+    top:60px
+
+}
